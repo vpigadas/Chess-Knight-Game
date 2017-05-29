@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="board_light">#FFD6D9B0</color>
+    <color name="board_dark">#FF399436</color>
+
+    <color name="startPoint">#FF00FF00</color>
+    <color name="endPoint">#FFF00F00</color>
+
+    <color name="selectColorOne">#FF0000FF</color>
+    <color name="selectColorTwo">#c80000ff</color>
+    <color name="selectColorThree">#910000ff</color>
+</resources>

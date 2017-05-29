@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChessGame</string>
+    <string name="menu_refresh">Restart Game</string>
+
+    <string name="btn_results">Show Results</string>
+    <string name="btn_restart">@string/menu_refresh</string>
+
+    <string name="title_start_game">Please select the starting point</string>
+    <string name="title_end_game">Now select the end point</string>
+    <string name="title_results">We found %d correct routes</string>
+    <string name="title_not_found">Sorry we are not found any correct route for this points.</string>
+</resources>
